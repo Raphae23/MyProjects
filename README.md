@@ -1,3 +1,3 @@
 #Testing 
 
-Just learning how to use git!
+Just learning how to use git.
